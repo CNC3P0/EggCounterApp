@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EggCounterApp</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <string name="preference_file_key" />
+    <string name="saved_egg_count" />
+</resources>
